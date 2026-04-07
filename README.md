@@ -79,6 +79,8 @@ Bridging the gap between complex Indian law and everyday citizens — NyayaAI ma
 <div align="center">
 
 [![Daily DSA](https://img.shields.io/badge/Daily_DSA_Practice-Active_🔥-e94560?style=for-the-badge)](https://github.com/Prabhu-Acharya/Daily-DSA-Practice)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-91UbK6sPzA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/91UbK6sPzA/)
 
 </div>
 
@@ -88,6 +90,14 @@ I practice Data Structures & Algorithms daily in **Java** — covering arrays, l
 
 **Topics covered:**
 `Arrays` · `Strings` · `Linked Lists` · `Stacks & Queues` · `Binary Trees` · `BST` · `Recursion` · `Dynamic Programming` · `Sorting` · `Graphs`
+
+### 📊 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/91UbK6sPzA?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/91UbK6sPzA/)
+
+</div>
 
 ---
 
@@ -124,6 +134,7 @@ I practice Data Structures & Algorithms daily in **Java** — covering arrays, l
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prabhu--acharya16-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhu-acharya16/)
 [![GitHub](https://img.shields.io/badge/GitHub-Prabhu--Acharya-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabhu-Acharya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-91UbK6sPzA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/91UbK6sPzA/)
 
 </div>
 
