@@ -95,7 +95,7 @@ I practice Data Structures & Algorithms daily in **Java** — covering arrays, l
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/91UbK6sPzA?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/91UbK6sPzA/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/91UbK6sPzA?theme=cobalt&font=Fira%20Code&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/91UbK6sPzA/)
 
 </div>
 
@@ -104,16 +104,16 @@ I practice Data Structures & Algorithms daily in **Java** — covering arrays, l
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prabhu-Acharya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhu-Acharya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8"/>
+<img width="495em" src="https://github-readme-stats.vercel.app/api?username=Prabhu-Acharya&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true&hide_border=true"/>
 
-</div>
+<br/>
 
-<div align="center">
+<img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhu-Acharya&layout=compact&theme=cobalt2&hide_border=true"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabhu-Acharya&theme=tokyonight&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560)](https://git.io/streak-stats)
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabhu-Acharya&theme=cobalt2&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
