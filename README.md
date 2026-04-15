@@ -140,7 +140,7 @@ I practice Data Structures & Algorithms daily in **Java** — covering arrays, l
 
 <div align="center">
 
-*Open to collaboration, open-source contributions, and interesting conversations about tech, law, and everything in between.*
+*Open to collaboration, open-source contributions, and interesting conversations about tech, law, and everything in between. *
 
 </div>
 
