@@ -150,6 +150,6 @@ I practice Data Structures & Algorithms daily in **Java** — covering arrays, l
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer&fontColor=e94560" width="100%"/>
 
-*"The best code you'll ever write is the code that helps someone who needed it most."*
+*"The best code you'll ever write is the code that helps someone who needed it most." *
 
 </div>
